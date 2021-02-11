@@ -3,4 +3,4 @@ bin/
 .idea/
 version
 lib/version.go
-cal
+cal.exe
